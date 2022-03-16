@@ -1,0 +1,140 @@
+ <!DOCTYPE html>
+  <html>
+  <head>
+  <style>
+  p {
+    color: #8400ff;
+    text-align: right;
+  } 
+  </style>
+  </head>
+
+<title> TANO WEBPAGE </title> 
+
+<h1> My Website </h1>
+</style>                                                                                                                             
+<head>
+  <style>
+    h1{
+       font-family:Cambria, Cochin, Georgia, Times, 'Calibra', serif;
+      }
+    </style>
+</head> 
+<p>Richmond Website.</p> 
+<p>  my name is Tano Richmond Owusu Ansah .I was born in Sampa Government Hospital, and also I am 24 years of age,we are three in number but am the firs born in my family.
+<P> I grew up in a town called sampa.later in adolescence stage, I was an active member of my Junior High School counsel. After completing my Junior education, i continued my education to the Senior High level which was T.I Amass Fomena Senior High School.</p> 
+<p> I was discipline in all aspect. After my completion in the Senior High School, i applied for an admission to enroll into the University of Ghana as a I.T.</P>
+<p> I am currently in University of Ghana offering Bsc in Information Technology(I.T). My main goal is to become someone who has more knowledge in technology so that i will be able to cope myself in the world. 
+<p> The main reason why I want to pursue a degree in Bsc in Infomation Technology at the University of Ghana is that; i will be able to help others in the Ghana.
+<p>  I study hard because without a degree I can not achieve these goals.
+ </p>
+
+<img width="200" src=IMG_20200901_103642.png Align="left" >
+<h2> Educational Background </h2>
+<head>
+  <style>
+    h2
+    {font-family: monospace;
+    }
+  </style>
+</head> 
+<table style="width:100" border="2">
+<h1> 
+  <head>
+    <style>
+    td{
+      color: #ff009d;
+    } 
+    </style>
+    </head>  
+   
+    <th colspan="1"
+    <th>Institution</th>
+    <th>Courses</th>
+    <th>Duration</th>
+  
+    <h>
+</tr>
+<tr>
+  <head>
+    <style>
+      th{
+        font-family: monospace;
+
+      }
+    </style>
+  </head>
+    <td>sampa DA J.H.S</td>
+    <td>2013–2016</td>
+    
+</tr>
+  
+  <tr>
+      <td>T.i amass Senior High School</td>
+      <td>General Arts</td>
+      <td>2016-2019</td>
+  </tr>
+  <tr>
+    <td>University Of Ghana</td>
+    <td>Information Technology</td>
+    <td>2021 to date</td>
+  </tr>
+  </table>
+</body> 
+</html>
+  <head>
+    <style>
+      ul {
+      color:rgb(0, 255, 42);
+      }
+  </style>
+   
+
+ <h3>USER SIGNUP</h3>
+ <ul>
+    <head>
+      <style>
+    h3{
+      font-family: monospace;
+    }
+  </style>
+</head>
+
+  
+     <div>
+      <form
+        action="/action_page.php">
+          <li><label for="fname">First 
+          Name</label>
+          <input type="text" value="fname"
+          name="firstname"
+          placeholder="Your name..."></li>
+    
+          <li><label for="lname"> Last 
+          Name</label>
+          <input type="text" value="lname"
+          name="last name"
+          placeholder="Your name..."></li>
+    
+        <li><label for="age>"Your </label>
+          Age</label>
+               <select value="lage"
+         age="age" 
+         placeholder="age"
+                     <option value="18">18</option>
+                     <option value="19">19</option>
+                     <option value="">20</option></select>
+                     
+        <li><label for="telephone">Telephone Number</label>
+                     <input type="tel" id="lnumber"
+                     telephone="number" placeholder="your number...">
+                      
+                      <li><label
+                       for="Gender">Gender</label>
+                       <Select id="gender"
+                       name="gender">
+                       <option
+                       value="male">Male</option>
+                       <option 
+                       value="female">female</option>
+         </div>
